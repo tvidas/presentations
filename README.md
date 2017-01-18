@@ -1,2 +1,2 @@
-# presentations
-archive of public presentation files
+# Presentations
+This is just a small archive of public presentations and related files
